@@ -641,6 +641,4 @@ This function is used only for visualisation purpose. You don't have to push it 
 </ul>
 
 
-## Authors
-* **Alexa Orrico** [LinkedIn](https://www.linkedin.com/in/alexa-orrico-412a82b4/)
-* **Tope Agboola** [LinkedIn](https://www.linkedin.com/in/olatopeagboola/) 
+
